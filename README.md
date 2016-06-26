@@ -9,7 +9,7 @@ Requires:
   
     • Version 2.7: https://www.python.org/downloads/release/python-2711/
   
-•Peewee Installed:
+Peewee Installed:
     Enter this code into your command line to install:
 
     • pip install peewee
