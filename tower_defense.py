@@ -43,7 +43,6 @@ if __name__ == '__main__':
     db.create_tables([Save_Entry], safe=True)
 
 # Game Variables
-
 grid_max_x = 12
 grid_max_y = 7
 cells = []
